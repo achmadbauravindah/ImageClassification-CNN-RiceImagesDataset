@@ -1,6 +1,8 @@
 # Deep Learning Image Classification with CNN
 ### Dataset: Types of Rice Images
 Model: "sequential"
+
+"""
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
 =================================================================
@@ -24,3 +26,4 @@ _________________________________________________________________
 Total params: 260,997
 Trainable params: 260,997
 Non-trainable params: 0
+"""
